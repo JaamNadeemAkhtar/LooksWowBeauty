@@ -8,7 +8,7 @@ const Footer = () => {
         <footer className="footer">
             <div className="container footer-content">
                 <div className="footer-col brand-col">
-                    <Link to="/" className="footer-logo">LooksWow Beauty.</Link>
+                    <Link to="/" className="footer-logo">LooksWow Beauty</Link>
                     <p className="footer-desc">
                         Worldwide delivery on premium aesthetic beauty and cosmetics products. Elevate your everyday look with high-end, premium selections.
                     </p>
