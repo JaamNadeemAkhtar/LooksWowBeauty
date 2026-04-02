@@ -8,7 +8,7 @@ const Footer = () => {
         <footer className="footer">
             <div className="container footer-content">
                 <div className="footer-col brand-col">
-                    <Link to="/" className="footer-logo">LooksWow Beauty</Link>
+                    <Link to="/" className="footer-logo">LOOKSWOW BEAUTY</Link>
                     <p className="footer-desc">
                         Worldwide delivery on premium aesthetic beauty and cosmetics products. Elevate your everyday look with high-end, premium selections.
                     </p>
@@ -50,7 +50,7 @@ const Footer = () => {
             </div>
 
             <div className="footer-bottom container">
-                <p>&copy; {new Date().getFullYear()} LooksWow Beauty. All rights reserved.</p>
+                <p>&copy; {new Date().getFullYear()} LooksWow Beauty All rights reserved.</p>
                 <div className="footer-bottom-links">
                     <a href="#">Privacy Policy</a>
                     <a href="#">Terms of Service</a>
