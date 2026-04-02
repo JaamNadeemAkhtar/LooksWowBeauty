@@ -104,7 +104,7 @@ const Home = () => {
                             </div>
                             <div className="product-info">
                                 <h4>Hydrating Glo Cream</h4>
-                                <p className="price">$85.00</p>
+                                <p className="price">RS8500.00</p>
                             </div>
                         </motion.div>
 
@@ -117,7 +117,7 @@ const Home = () => {
                             </div>
                             <div className="product-info">
                                 <h4>Obsession Velvet Lip</h4>
-                                <p className="price">$42.00</p>
+                                <p className="price">RS4200.00</p>
                             </div>
                         </motion.div>
 
@@ -130,7 +130,7 @@ const Home = () => {
                             </div>
                             <div className="product-info">
                                 <h4>Midnight Glow Palette</h4>
-                                <p className="price">$65.00</p>
+                                <p className="price">RS6500.00</p>
                             </div>
                         </motion.div>
 
@@ -143,7 +143,7 @@ const Home = () => {
                             </div>
                             <div className="product-info">
                                 <h4>DAMN. Perfume</h4>
-                                <p className="price">$120.00</p>
+                                <p className="price">RS1200.00</p>
                             </div>
                         </motion.div>
                     </motion.div>
