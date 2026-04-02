@@ -4,10 +4,10 @@ import { Star } from 'lucide-react';
 import './Reviews.css';
 
 const reviewsData = [
-    { id: 1, author: "Emma S.", location: "New York, USA", rating: 5, text: "The Obsession Velvet Lip is exactly as described. Never dries out my lips, and the color is gorgeous!", image: "/lipstick.png" },
-    { id: 2, author: "Isabella R.", location: "Milan, IT", rating: 5, text: "I received my skincare jar all the way in Italy within 3 days! The cream is absolutely perfect.", image: "/skincare.png" },
-    { id: 3, author: "Mei L.", location: "Tokyo, JP", rating: 5, text: "Midnight Glow palette has the best pigmentation I've seen in a while. Luxurious packaging.", image: "/eyeshadow.png" },
-    { id: 4, author: "Sarah W.", location: "London, UK", rating: 4, text: "Shipping was exceptionally quick. Love the product, though I wish there were more neutral shades.", image: "/lipstick.png" }
+    { id: 1, author: "CH Shoukat.", location: "Islam Abad", rating: 5, text: "The Obsession Velvet Lip is exactly as described. Never dries out my lips, and the color is gorgeous!", image: "/lipstick.png" },
+    { id: 2, author: "Jam Hassan.", location: "Multan", rating: 5, text: "I received my skincare jar all the way in Multan within 2 days! The cream is absolutely perfect.", image: "/skincare.png" },
+    { id: 3, author: "CH Daniyal.", location: "Lahore", rating: 5, text: "Midnight Glow palette has the best pigmentation I've seen in a while. Luxurious packaging.", image: "/eyeshadow.png" },
+    { id: 4, author: "Ali Jan.", location: "Rahim Yar Khan", rating: 4, text: "Shipping was exceptionally quick. Love the product, though I wish there were more neutral shades.", image: "/lipstick.png" }
 ];
 
 const Reviews = () => {

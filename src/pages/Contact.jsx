@@ -44,7 +44,7 @@ const Contact = () => {
                                 <div className="method-icon"><Phone size={24} /></div>
                                 <div>
                                     <h4>Call Us</h4>
-                                    <p>+1 (800) 123-WOWB</p>
+                                    <p>+92 302 1175486</p>
                                     <span>Mon-Fri: 9am - 8pm EST</span>
                                 </div>
                             </div>
@@ -52,8 +52,8 @@ const Contact = () => {
                                 <div className="method-icon"><MapPin size={24} /></div>
                                 <div>
                                     <h4>Mailing Address</h4>
-                                    <p>123 Aesthetic Avenue, Suite 100</p>
-                                    <p>New York, NY 10001, USA</p>
+                                    <p>LDA Avenue 1 ,Lahore</p>
+                                    <p>Punjab, Pakistan</p>
                                 </div>
                             </div>
                         </div>
@@ -64,15 +64,15 @@ const Contact = () => {
                             <h3>Send us a message</h3>
                             <div className="form-group">
                                 <label>Name</label>
-                                <input type="text" placeholder="Jane Doe" required />
+                                <input type="text" placeholder="Nadeem Akhtar" required />
                             </div>
                             <div className="form-group">
                                 <label>Email Address</label>
-                                <input type="email" placeholder="jane@example.com" required />
+                                <input type="email" placeholder="nadeemakhtar7546@example.com" required />
                             </div>
                             <div className="form-group">
                                 <label>Order Number (Optional)</label>
-                                <input type="text" placeholder="#LWB12345" />
+                                <input type="text" placeholder="Lah12345" />
                             </div>
                             <div className="form-group">
                                 <label>Message</label>

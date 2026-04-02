@@ -4,13 +4,13 @@ import { Filter } from 'lucide-react';
 import './Products.css';
 
 const products = [
-    { id: 1, name: 'Obsession Velvet Lip', category: 'Lips', price: '$42.00', image: '/lipstick.png' },
-    { id: 2, name: 'Hydrating Glo Cream', category: 'Skincare', price: '$85.00', image: '/skincare.png' },
-    { id: 3, name: 'Midnight Glow Palette', category: 'Eyes', price: '$65.00', image: '/eyeshadow.png' },
-    { id: 4, name: 'Rose Petal Tint', category: 'Lips', price: '$28.00', image: '/lipstick.png' },
-    { id: 5, name: 'Luminous Eye Primer', category: 'Eyes', price: '$35.00', image: '/eyeshadow.png' },
-    { id: 6, name: 'Purifying Night Gel', category: 'Skincare', price: '$75.00', image: '/skincare.png' },
-    { id: 7, name: 'DAMN. Perfume', category: 'Fragrance', price: '$120.00', image: '/perfume_damn.png' },
+    { id: 1, name: 'Obsession Velvet Lip', category: 'Lips', price: 'RS4200.00', image: '/lipstick.png' },
+    { id: 2, name: 'Hydrating Glo Cream', category: 'Skincare', price: 'RS8500.00', image: '/skincare.png' },
+    { id: 3, name: 'Midnight Glow Palette', category: 'Eyes', price: 'RS6500.00', image: '/eyeshadow.png' },
+    { id: 4, name: 'Rose Petal Tint', category: 'Lips', price: 'RS2800.00', image: '/lipstick.png' },
+    { id: 5, name: 'Luminous Eye Primer', category: 'Eyes', price: 'Rs3500.00', image: '/eyeshadow.png' },
+    { id: 6, name: 'Purifying Night Gel', category: 'Skincare', price: 'RS7500.00', image: '/skincare.png' },
+    { id: 7, name: 'DAMN Perfume', category: 'Fragrance', price: 'RS12000.00', image: '/perfume_damn.png' },
 ];
 
 const Products = () => {
@@ -45,8 +45,8 @@ const Products = () => {
                         <div className="filter-group">
                             <h4>Price Range</h4>
                             <ul>
-                                <li><label><input type="checkbox" /> Under $50</label></li>
-                                <li><label><input type="checkbox" /> $50 - $100</label></li>
+                                <li><label><input type="checkbox" /> Under RS5000</label></li>
+                                <li><label><input type="checkbox" /> RS5000 - RS10000</label></li>
                             </ul>
                         </div>
                     </aside>
